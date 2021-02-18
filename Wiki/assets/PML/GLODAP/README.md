@@ -21,6 +21,6 @@ var6	pCO~_2(P,T,ALK,DIC)	micro-atmospheres
 
 Original GLODAP data files accessed from:  https://www.glodap.info/
 
-Description: Global, multidecadal research ship transects of pH and pCO2.
+Description: Global, multidecadal research ship transects of pH and pCO2
 
 
