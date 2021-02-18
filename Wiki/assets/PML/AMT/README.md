@@ -1,5 +1,9 @@
 Data accessible from: https://www.dropbox.com/sh/j36b9whh1trdeuz/AACC6KCSkx-E89tFi-ldP0DTa?dl=0
 
+Dataset name: AMT_allS_1deg_bins.csv
+
+Format: Comma Separated Variable (csv)
+
 Data description:
 Surface sea-water (sw) pH and fCO2 from multiple transects of the Atlantic Meridional Transect () as a function of date, cruise, latitude, longitude and averaged into 1 degree latitude "bins".  Meta-data available are Sea-Surface Temperature, Salinity and fCO2 (fugacity of CO2) in air.
 
