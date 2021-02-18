@@ -4,8 +4,9 @@ Data accessible from: https://www.dropbox.com/sh/bmmm48l2mcmpifh/AABN18zBv6sTp1B
 
 Data description: Surface pH and pCO2 from the Western Channel Observatory (www.westernchannelobservatory.org.uk) at stations L4 and E1, as a function of date.
 
-Data filenames: E1_pHpCO2_20082019.csv - E1 time-series between 2008 and 2019
-                L4_pHpCO2_20082019.csv - L4 time-series between 2008 and 2019
+Data filenames: 
+E1_pHpCO2_20082019.csv - E1 time-series between 2008 and 2019
+L4_pHpCO2_20082019.csv - L4 time-series between 2008 and 2019
 
 Data format: Comma Separated Variable (csv)
 
